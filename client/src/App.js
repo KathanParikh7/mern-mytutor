@@ -14,7 +14,7 @@ function App() {
 			{/* <Signup /> */}
 			<Dashboard />
 			<Footer />
-		</div>
+		</div>	
 	);
 }
 
